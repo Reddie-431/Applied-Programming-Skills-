@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Linked List
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1603-design-parking-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
