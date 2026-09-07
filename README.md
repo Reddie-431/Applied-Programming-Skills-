@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1314-matrix-block-sum) |
+| [1408-string-matching-in-an-array](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/2418-sort-the-people) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0890-find-and-replace-pattern) |
 | [1154-day-of-the-year](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1360-number-of-days-between-two-dates) |
+| [1408-string-matching-in-an-array](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/2418-sort-the-people) |
 ## Queue
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0918-maximum-sum-circular-subarray) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
