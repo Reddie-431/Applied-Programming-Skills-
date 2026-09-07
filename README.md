@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0867-transpose-matrix) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -105,4 +108,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
