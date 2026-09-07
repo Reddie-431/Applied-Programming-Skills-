@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0179-largest-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0867-transpose-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
