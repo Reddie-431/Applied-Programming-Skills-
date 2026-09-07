@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1154-day-of-the-year](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1360-number-of-days-between-two-dates) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0387-first-unique-character-in-a-string) |
+| [1154-day-of-the-year](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1360-number-of-days-between-two-dates) |
 ## Queue
 |  |
