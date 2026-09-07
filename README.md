@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0867-transpose-matrix) |
+| [0890-find-and-replace-pattern](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1480-running-sum-of-1d-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0387-first-unique-character-in-a-string) |
+| [0890-find-and-replace-pattern](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0890-find-and-replace-pattern) |
 | [2418-sort-the-people](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0008-string-to-integer-atoi) |
 | [0179-largest-number](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0387-first-unique-character-in-a-string) |
+| [0890-find-and-replace-pattern](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0890-find-and-replace-pattern) |
 | [1154-day-of-the-year](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1360-number-of-days-between-two-dates) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1704-determine-if-string-halves-are-alike) |
