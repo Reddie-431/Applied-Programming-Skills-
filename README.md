@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0283-move-zeroes) |
+| [0705-design-hashset](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0705-design-hashset](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0890-find-and-replace-pattern) |
 | [1396-design-underground-system](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1396-design-underground-system) |
 | [2418-sort-the-people](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/2418-sort-the-people) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1472-design-browser-history) |
 ## Greedy
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1603-design-parking-system) |
@@ -181,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
