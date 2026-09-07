@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0890-find-and-replace-pattern) |
 | [2418-sort-the-people](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/2418-sort-the-people) |
 ## Sliding Window
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0008-string-to-integer-atoi) |
 | [0179-largest-number](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0890-find-and-replace-pattern) |
