@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1408-string-matching-in-an-array) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1472-design-browser-history](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1480-running-sum-of-1d-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0918-maximum-sum-circular-subarray) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Counting
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0918-maximum-sum-circular-subarray) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## String Matching
 |  |
 | ------- |
@@ -234,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
