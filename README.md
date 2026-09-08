@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0179-largest-number) |
+| [0344-reverse-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0459-repeated-substring-pattern) |
