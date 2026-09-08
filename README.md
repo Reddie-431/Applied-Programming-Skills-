@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0876-middle-of-the-linked-list) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1472-design-browser-history) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1600-throne-inheritance](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1600-throne-inheritance) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
