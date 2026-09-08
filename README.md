@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0496-next-greater-element-i) |
+| [0641-design-circular-deque](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0867-transpose-matrix) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0387-first-unique-character-in-a-string) |
+| [0641-design-circular-deque](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Counting
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0234-palindrome-linked-list) |
+| [0641-design-circular-deque](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1472-design-browser-history) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0641-design-circular-deque](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0901-online-stock-span) |
 | [1396-design-underground-system](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1396-design-underground-system) |
