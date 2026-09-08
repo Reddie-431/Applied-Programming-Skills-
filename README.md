@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0705-design-hashset) |
+| [0901-online-stock-span](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0901-online-stock-span) |
 | [1396-design-underground-system](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1600-throne-inheritance) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1472-design-browser-history) |
 ## Hash Function
 |  |
@@ -221,4 +224,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
