@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0705-design-hashset) |
+| [0739-daily-temperatures](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -218,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
