@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0344-reverse-string) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0739-daily-temperatures) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Reddie-431/Applied-Programming-Skills-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
